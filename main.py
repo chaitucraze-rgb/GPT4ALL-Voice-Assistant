@@ -7,7 +7,7 @@ import warnings
 import time
 import os
 
-wake_word = 'jarvis'
+wake_word = 'mikeey'
 
 model_complete_filepath='/Users/YOUR_USERNAME_HERE/Library/Application Support/nomic.ai/GPT4All/ggml-model-gpt4all-falcon-q4_0.gguf'
 model_path_directory, model_filename_complete = os.path.split(model_complete_filepath)
